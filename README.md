@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on something cool
+- 🌱 I’m currently learning coding through youtube
+- 👯 I’m looking to collaborate on my project
+- 🤔 I’m looking for help with expert for my project
+
 <!--
 **Aetrox0414/Aetrox0414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
